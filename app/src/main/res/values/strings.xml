@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Projekti_1_Zhvillim_App</string>
+    <string name="payment_information">Payment Information Step 1/2</string>
+    <string name="write_your_name">Write your name</string>
+    <string name="write_your_email">Write your email</string>
+    <string name="card_number">Card number</string>
+    <string name="pay">Pay</string>
+    <string name="next">Next</string>
+    <string name="card_s_name_owner">Card\'s Name Owner</string>
+    <string name="card_expiration_date">Card Expiration Date</string>
+    <string name="cancel">Cancel</string>
+    <string name="your_data_are_protected">Your data are protected!</string>
+    <string name="learn_more">Learn More?</string>
+    <string name="phone_number">Phone number</string>
+    <string name="payment_information_step_2_2">Payment Information Step 2/2</string>
+    <string name="password">Password</string>
+    <string name="submit_payment">Submit Payment</string>
+</resources>
